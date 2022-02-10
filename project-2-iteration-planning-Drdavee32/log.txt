@@ -1,0 +1,35 @@
+commit 89597000022aa3b37a45fd786bd9fe5a66a866f5
+Author: Drdavee32 <54692376+Drdavee32@users.noreply.github.com>
+Date:   Tue Nov 12 20:55:50 2019 -0500
+
+    FInished plan 3, checking things over next
+
+commit 76fcec525396d8ee0f5ad773fbf1e6ae706b715c
+Author: Drdavee32 <54692376+Drdavee32@users.noreply.github.com>
+Date:   Tue Nov 12 20:05:35 2019 -0500
+
+    Almost finished with plan 2
+
+commit 6ef45177712ce8cd2769020ca5c4b2c0941d19be
+Author: Drdavee32 <54692376+Drdavee32@users.noreply.github.com>
+Date:   Sat Nov 9 02:03:10 2019 -0500
+
+    Starting Plan 2
+
+commit 2f1a4770bd16d22dec9bf1e4df83a941d7d709da
+Author: Drdavee32 <54692376+Drdavee32@users.noreply.github.com>
+Date:   Fri Nov 8 23:15:08 2019 -0500
+
+    Dependency Finished
+
+commit 154a59994fbcb3a3809537ee4d87fd48aab86274
+Author: Drdavee32 <54692376+Drdavee32@users.noreply.github.com>
+Date:   Thu Nov 7 04:21:08 2019 -0500
+
+    Working on Dependency
+
+commit 7d2b2f70f90e6364c6558037423d45ed311dab85
+Author: Drdavee32 <54692376+Drdavee32@users.noreply.github.com>
+Date:   Thu Nov 7 03:38:32 2019 -0500
+
+    Finished Plan 1
